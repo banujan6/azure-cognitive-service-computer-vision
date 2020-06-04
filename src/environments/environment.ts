@@ -3,6 +3,12 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
+
+  // You can get this subscription key & in your azure dashboard
+  "Ocp-Apim-Subscription-Key": '',
+
+  // You can get end point once your deployed your cognitive service
+  "Api-EndPoint": '',
   production: false
 };
 

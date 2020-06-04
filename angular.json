@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "azure-vision": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "azure-vision"
+    }
+  },
+  "defaultProject": "azure-vision",
+  "cli": {
+    "analytics": "1a6a869e-976d-4bd2-aba7-f93107711791"
+  }
 }
