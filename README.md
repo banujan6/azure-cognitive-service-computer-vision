@@ -10,7 +10,6 @@ The `Api-EndPoint` is your deployed service end-point, You can get after deploye
 
 # Follow Me
 
-[Twitter](https://twitter.com/bad_piggie_6)
-[Instagram](https://www.instagram.com/_bad_piggie_/)
+[Twitter](https://twitter.com/bad_piggie_6) - [Instagram](https://www.instagram.com/_bad_piggie_/)
 
-## Give a Start & Contribute!
+## Give a Star & Contribute!
