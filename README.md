@@ -1,6 +1,6 @@
 ![Azure Cognitive Services](https://snp.azureedge.net/cdn/farfuture/-JkWIKc5zHRlyVj3i-Pq7EhHUh4dSSu1Go01DJGlPMs/1546525119/sites/default/files/blog/Microsoft%20Cognitive%20Services.png)
 
-# Azure Congnitive Service | Computer Vision API | Angular
+# Azure Cognitive Service | Computer Vision API | Angular
 
 This project was created on [Angular](https://angular.io/) for demostrate simple object ditection in images using [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/).
 
