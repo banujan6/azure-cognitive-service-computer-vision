@@ -4,6 +4,8 @@
 
 This project was created on [Angular](https://angular.io/) for demostrate simple object ditection in images using [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/).
 
+### [View Hosted Project Here](https://delightful-flower-09099960f.azurestaticapps.net/)
+
 # Environment
 
 In `environments/environment.ts` file, You can find `Ocp-Apim-Subscription-Key` and `Api-EndPoint`.
